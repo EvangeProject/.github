@@ -1,3 +1,5 @@
+# **DO NOT ATTEMPT TO BUILD, SERIOUSLY THIS HAS NOT BEEN TESTED AND DOES NOT WORK YET**
+
 # **Evange Project**
 
 ![Evangelion Asuka](asuka.png)
